@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\youtube learning\JAVA aapni kaksha\Codes\.metadata\.plugins\org.eclipse.jdt.core
+1642175237.index
+1714711366.index

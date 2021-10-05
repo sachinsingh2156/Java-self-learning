@@ -1,0 +1,13 @@
+package arrays;
+
+public class ArrayIntro {
+
+	public static void main(String[] args) {
+//		int[] marks;
+//		marks = new int [10];
+
+		int marks []= new int [5];
+
+	}
+
+}
